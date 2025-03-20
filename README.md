@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes this a beginning tutorial for recipes in the Odin Project.
